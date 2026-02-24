@@ -1,1 +1,4 @@
 Run the model:
+pandas
+numpy
+scikit-learn
